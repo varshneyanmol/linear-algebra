@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/linalg/matrix.py" line="448" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ab775ba-c478-418b-a5af-f31437327ba3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LinearAlgebra$matrix.coverage" NAME="matrix Coverage Results" MODIFIED="1488024022996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linalg" />
+    <SUITE FILE_PATH="coverage/LinearAlgebra$vector.coverage" NAME="vector Coverage Results" MODIFIED="1487874723859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linalg" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="generalop.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linalg/generalop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#105#0" expanded="false" />
+                <element signature="e#137#174#0" expanded="false" />
+                <element signature="e#216#400#0" expanded="false" />
+                <element signature="e#440#626#0" expanded="false" />
+                <element signature="e#656#888#0" expanded="false" />
+                <element signature="e#922#1289#0" expanded="false" />
+                <element signature="e#1328#1700#0" expanded="false" />
+                <element signature="e#1739#2173#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linalg/matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="436" column="36" lean-forward="false" selection-start-line="436" selection-start-column="36" selection-end-line="436" selection-end-column="36" />
+              <folding>
+                <element signature="e#210#358#0" expanded="false" />
+                <element signature="e#392#607#0" expanded="false" />
+                <element signature="e#633#956#0" expanded="false" />
+                <element signature="e#993#1090#0" expanded="false" />
+                <element signature="e#1133#1715#0" expanded="false" />
+                <element signature="e#1760#2194#0" expanded="false" />
+                <element signature="e#2226#2409#0" expanded="false" />
+                <element signature="e#2444#2624#0" expanded="false" />
+                <element signature="e#2660#2963#0" expanded="false" />
+                <element signature="e#2991#3152#0" expanded="false" />
+                <element signature="e#3180#3471#0" expanded="false" />
+                <element signature="e#3506#3868#0" expanded="false" />
+                <element signature="e#3915#4012#0" expanded="false" />
+                <element signature="e#4080#4355#0" expanded="false" />
+                <element signature="e#4392#4449#0" expanded="false" />
+                <element signature="e#4486#5822#0" expanded="false" />
+                <element signature="e#5867#7250#0" expanded="false" />
+                <element signature="e#7288#8374#0" expanded="false" />
+                <element signature="e#8422#9012#0" expanded="false" />
+                <element signature="e#9048#9207#0" expanded="false" />
+                <element signature="e#9266#9755#0" expanded="false" />
+                <element signature="e#9787#10666#0" expanded="false" />
+                <element signature="e#10716#10987#0" expanded="false" />
+                <element signature="e#11022#11658#0" expanded="false" />
+                <element signature="e#11687#11899#0" expanded="false" />
+                <element signature="e#11940#11996#0" expanded="false" />
+                <element signature="e#12048#12742#0" expanded="false" />
+                <element signature="e#12786#13821#0" expanded="false" />
+                <element signature="e#13856#15667#0" expanded="false" />
+                <element signature="e#13860#13923#0" expanded="false" />
+                <element signature="e#13933#13987#0" expanded="false" />
+                <element signature="e#13997#14123#0" expanded="false" />
+                <element signature="e#14134#14190#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vector.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linalg/vector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/linalg/generalop.py" />
+        <option value="$PROJECT_DIR$/linalg/vector.py" />
+        <option value="$PROJECT_DIR$/linalg/matrix.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="24" />
+    <option name="width" value="1317" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinearAlgebra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LinearAlgebra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linalg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../regression" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.matrix">
+    <configuration default="false" name="vector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linalg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linalg/vector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linalg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linalg/matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="LinearAlgebra" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LinearAlgebra" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.vector" />
+      <item index="1" class="java.lang.String" itemvalue="Python.matrix" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.matrix" />
+        <item index="1" class="java.lang.String" itemvalue="Python.vector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ab775ba-c478-418b-a5af-f31437327ba3" name="Default" comment="" />
+      <created>1487873039529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487873039529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="24" width="1317" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2627852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5324074" sideWeight="0.50275373" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3441358" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3148148" sideWeight="0.49724627" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981017" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39506173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/linalg/generalop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#105#0" expanded="false" />
+            <element signature="e#137#174#0" expanded="false" />
+            <element signature="e#216#400#0" expanded="false" />
+            <element signature="e#440#626#0" expanded="false" />
+            <element signature="e#656#888#0" expanded="false" />
+            <element signature="e#922#1289#0" expanded="false" />
+            <element signature="e#1328#1700#0" expanded="false" />
+            <element signature="e#1739#2173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#358#0" expanded="false" />
+            <element signature="e#392#607#0" expanded="false" />
+            <element signature="e#633#956#0" expanded="false" />
+            <element signature="e#993#1090#0" expanded="false" />
+            <element signature="e#1133#1715#0" expanded="false" />
+            <element signature="e#1760#2194#0" expanded="false" />
+            <element signature="e#2226#2409#0" expanded="false" />
+            <element signature="e#2444#2624#0" expanded="false" />
+            <element signature="e#2660#2963#0" expanded="false" />
+            <element signature="e#2991#3152#0" expanded="false" />
+            <element signature="e#3180#3471#0" expanded="false" />
+            <element signature="e#3506#3868#0" expanded="false" />
+            <element signature="e#3915#4012#0" expanded="false" />
+            <element signature="e#4080#4355#0" expanded="false" />
+            <element signature="e#4392#4449#0" expanded="false" />
+            <element signature="e#4486#5822#0" expanded="false" />
+            <element signature="e#5867#7250#0" expanded="false" />
+            <element signature="e#7288#8374#0" expanded="false" />
+            <element signature="e#8422#9012#0" expanded="false" />
+            <element signature="e#9048#9207#0" expanded="false" />
+            <element signature="e#9266#9755#0" expanded="false" />
+            <element signature="e#9787#10666#0" expanded="false" />
+            <element signature="e#10716#10987#0" expanded="false" />
+            <element signature="e#11022#11658#0" expanded="false" />
+            <element signature="e#11687#11899#0" expanded="false" />
+            <element signature="e#11940#11996#0" expanded="false" />
+            <element signature="e#12048#12742#0" expanded="false" />
+            <element signature="e#12786#13821#0" expanded="false" />
+            <element signature="e#13856#15667#0" expanded="false" />
+            <element signature="e#13860#13923#0" expanded="false" />
+            <element signature="e#13933#13987#0" expanded="false" />
+            <element signature="e#13997#14123#0" expanded="false" />
+            <element signature="e#14134#14190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/generalop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#105#0" expanded="false" />
+            <element signature="e#137#174#0" expanded="false" />
+            <element signature="e#216#400#0" expanded="false" />
+            <element signature="e#440#626#0" expanded="false" />
+            <element signature="e#656#888#0" expanded="false" />
+            <element signature="e#922#1289#0" expanded="false" />
+            <element signature="e#1328#1700#0" expanded="false" />
+            <element signature="e#1739#2173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4662">
+          <caret line="560" column="16" lean-forward="false" selection-start-line="560" selection-start-column="16" selection-end-line="560" selection-end-column="16" />
+          <folding>
+            <element signature="e#210#358#0" expanded="false" />
+            <element signature="e#392#607#0" expanded="false" />
+            <element signature="e#633#956#0" expanded="false" />
+            <element signature="e#993#1090#0" expanded="false" />
+            <element signature="e#1133#1715#0" expanded="false" />
+            <element signature="e#1760#2194#0" expanded="false" />
+            <element signature="e#2226#2409#0" expanded="false" />
+            <element signature="e#2444#2624#0" expanded="false" />
+            <element signature="e#2660#2963#0" expanded="false" />
+            <element signature="e#2991#3152#0" expanded="false" />
+            <element signature="e#3180#3471#0" expanded="false" />
+            <element signature="e#3506#3868#0" expanded="false" />
+            <element signature="e#3915#4012#0" expanded="false" />
+            <element signature="e#4080#4355#0" expanded="false" />
+            <element signature="e#4392#4449#0" expanded="false" />
+            <element signature="e#4486#5822#0" expanded="false" />
+            <element signature="e#5867#7250#0" expanded="false" />
+            <element signature="e#7288#8374#0" expanded="false" />
+            <element signature="e#8422#9012#0" expanded="false" />
+            <element signature="e#9048#9207#0" expanded="false" />
+            <element signature="e#9266#9755#0" expanded="false" />
+            <element signature="e#9787#10666#0" expanded="false" />
+            <element signature="e#10716#10987#0" expanded="false" />
+            <element signature="e#11022#11658#0" expanded="false" />
+            <element signature="e#11687#11899#0" expanded="false" />
+            <element signature="e#11940#11996#0" expanded="false" />
+            <element signature="e#12048#12742#0" expanded="false" />
+            <element signature="e#12786#13821#0" expanded="false" />
+            <element signature="e#13856#15667#0" expanded="false" />
+            <element signature="e#13860#13923#0" expanded="false" />
+            <element signature="e#13933#13987#0" expanded="false" />
+            <element signature="e#13997#14123#0" expanded="false" />
+            <element signature="e#14134#14190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/generalop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#105#0" expanded="false" />
+            <element signature="e#137#174#0" expanded="false" />
+            <element signature="e#216#400#0" expanded="false" />
+            <element signature="e#440#626#0" expanded="false" />
+            <element signature="e#656#888#0" expanded="false" />
+            <element signature="e#922#1289#0" expanded="false" />
+            <element signature="e#1328#1700#0" expanded="false" />
+            <element signature="e#1739#2173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#358#0" expanded="false" />
+            <element signature="e#392#607#0" expanded="false" />
+            <element signature="e#633#956#0" expanded="false" />
+            <element signature="e#993#1090#0" expanded="false" />
+            <element signature="e#1133#1715#0" expanded="false" />
+            <element signature="e#1760#2194#0" expanded="false" />
+            <element signature="e#2226#2409#0" expanded="false" />
+            <element signature="e#2444#2624#0" expanded="false" />
+            <element signature="e#2660#2963#0" expanded="false" />
+            <element signature="e#2991#3152#0" expanded="false" />
+            <element signature="e#3180#3471#0" expanded="false" />
+            <element signature="e#3506#3868#0" expanded="false" />
+            <element signature="e#3915#4012#0" expanded="false" />
+            <element signature="e#4080#4355#0" expanded="false" />
+            <element signature="e#4392#4449#0" expanded="false" />
+            <element signature="e#4486#5822#0" expanded="false" />
+            <element signature="e#5867#7250#0" expanded="false" />
+            <element signature="e#7288#8374#0" expanded="false" />
+            <element signature="e#8422#9012#0" expanded="false" />
+            <element signature="e#9048#9207#0" expanded="false" />
+            <element signature="e#9266#9755#0" expanded="false" />
+            <element signature="e#9787#10666#0" expanded="false" />
+            <element signature="e#10716#10987#0" expanded="false" />
+            <element signature="e#11022#11658#0" expanded="false" />
+            <element signature="e#11687#11899#0" expanded="false" />
+            <element signature="e#11940#11996#0" expanded="false" />
+            <element signature="e#12048#12742#0" expanded="false" />
+            <element signature="e#12786#13821#0" expanded="false" />
+            <element signature="e#13856#15667#0" expanded="false" />
+            <element signature="e#13860#13923#0" expanded="false" />
+            <element signature="e#13933#13987#0" expanded="false" />
+            <element signature="e#13997#14123#0" expanded="false" />
+            <element signature="e#14134#14190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/generalop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#105#0" expanded="false" />
+            <element signature="e#137#174#0" expanded="false" />
+            <element signature="e#216#400#0" expanded="false" />
+            <element signature="e#440#626#0" expanded="false" />
+            <element signature="e#656#888#0" expanded="false" />
+            <element signature="e#922#1289#0" expanded="false" />
+            <element signature="e#1328#1700#0" expanded="false" />
+            <element signature="e#1739#2173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#358#0" expanded="false" />
+            <element signature="e#392#607#0" expanded="false" />
+            <element signature="e#633#956#0" expanded="false" />
+            <element signature="e#993#1090#0" expanded="false" />
+            <element signature="e#1133#1715#0" expanded="false" />
+            <element signature="e#1760#2194#0" expanded="false" />
+            <element signature="e#2226#2409#0" expanded="false" />
+            <element signature="e#2444#2624#0" expanded="false" />
+            <element signature="e#2660#2963#0" expanded="false" />
+            <element signature="e#2991#3152#0" expanded="false" />
+            <element signature="e#3180#3471#0" expanded="false" />
+            <element signature="e#3506#3868#0" expanded="false" />
+            <element signature="e#3915#4012#0" expanded="false" />
+            <element signature="e#4080#4355#0" expanded="false" />
+            <element signature="e#4392#4449#0" expanded="false" />
+            <element signature="e#4486#5822#0" expanded="false" />
+            <element signature="e#5867#7250#0" expanded="false" />
+            <element signature="e#7288#8374#0" expanded="false" />
+            <element signature="e#8422#9012#0" expanded="false" />
+            <element signature="e#9048#9207#0" expanded="false" />
+            <element signature="e#9266#9755#0" expanded="false" />
+            <element signature="e#9787#10666#0" expanded="false" />
+            <element signature="e#10716#10987#0" expanded="false" />
+            <element signature="e#11022#11658#0" expanded="false" />
+            <element signature="e#11687#11899#0" expanded="false" />
+            <element signature="e#11940#11996#0" expanded="false" />
+            <element signature="e#12048#12742#0" expanded="false" />
+            <element signature="e#12786#13821#0" expanded="false" />
+            <element signature="e#13856#15667#0" expanded="false" />
+            <element signature="e#13860#13923#0" expanded="false" />
+            <element signature="e#13933#13987#0" expanded="false" />
+            <element signature="e#13997#14123#0" expanded="false" />
+            <element signature="e#14134#14190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generalop.py" />
+    <entry file="file://$PROJECT_DIR$/matrix.py" />
+    <entry file="file://$PROJECT_DIR$/linalg/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="436" column="36" lean-forward="false" selection-start-line="436" selection-start-column="36" selection-end-line="436" selection-end-column="36" />
+          <folding>
+            <element signature="e#210#358#0" expanded="false" />
+            <element signature="e#392#607#0" expanded="false" />
+            <element signature="e#633#956#0" expanded="false" />
+            <element signature="e#993#1090#0" expanded="false" />
+            <element signature="e#1133#1715#0" expanded="false" />
+            <element signature="e#1760#2194#0" expanded="false" />
+            <element signature="e#2226#2409#0" expanded="false" />
+            <element signature="e#2444#2624#0" expanded="false" />
+            <element signature="e#2660#2963#0" expanded="false" />
+            <element signature="e#2991#3152#0" expanded="false" />
+            <element signature="e#3180#3471#0" expanded="false" />
+            <element signature="e#3506#3868#0" expanded="false" />
+            <element signature="e#3915#4012#0" expanded="false" />
+            <element signature="e#4080#4355#0" expanded="false" />
+            <element signature="e#4392#4449#0" expanded="false" />
+            <element signature="e#4486#5822#0" expanded="false" />
+            <element signature="e#5867#7250#0" expanded="false" />
+            <element signature="e#7288#8374#0" expanded="false" />
+            <element signature="e#8422#9012#0" expanded="false" />
+            <element signature="e#9048#9207#0" expanded="false" />
+            <element signature="e#9266#9755#0" expanded="false" />
+            <element signature="e#9787#10666#0" expanded="false" />
+            <element signature="e#10716#10987#0" expanded="false" />
+            <element signature="e#11022#11658#0" expanded="false" />
+            <element signature="e#11687#11899#0" expanded="false" />
+            <element signature="e#11940#11996#0" expanded="false" />
+            <element signature="e#12048#12742#0" expanded="false" />
+            <element signature="e#12786#13821#0" expanded="false" />
+            <element signature="e#13856#15667#0" expanded="false" />
+            <element signature="e#13860#13923#0" expanded="false" />
+            <element signature="e#13933#13987#0" expanded="false" />
+            <element signature="e#13997#14123#0" expanded="false" />
+            <element signature="e#14134#14190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linalg/generalop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#105#0" expanded="false" />
+            <element signature="e#137#174#0" expanded="false" />
+            <element signature="e#216#400#0" expanded="false" />
+            <element signature="e#440#626#0" expanded="false" />
+            <element signature="e#656#888#0" expanded="false" />
+            <element signature="e#922#1289#0" expanded="false" />
+            <element signature="e#1328#1700#0" expanded="false" />
+            <element signature="e#1739#2173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
